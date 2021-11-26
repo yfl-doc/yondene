@@ -1,4 +1,4 @@
-.. yfl-doc documentation master file, created by
+.. Yield Farming Lab用ページ documentation master file, created by
    sphinx-quickstart on Fri Nov 26 22:00:31 2021.
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
