@@ -9,3 +9,32 @@ Yield Farming Lab用ページ
 .. toctree::
    :maxdepth: 2
    :caption: Contents:
+
+まず始めに読む
+===================================
+
+.. toctree::
+   :maxdepth: 2
+   :caption: Contents:
+
+詐欺に会わない努力
+===================================
+
+.. toctree::
+   :maxdepth: 2
+   :caption: Contents:
+
+用語集
+===================================
+
+.. toctree::
+   :maxdepth: 2
+   :caption: Contents:
+
+おすすめ情報
+===================================
+
+.. toctree::
+   :maxdepth: 2
+   :caption: Contents:
+
